@@ -52,11 +52,9 @@ html {
 .section {
     height: 100vh;
     padding-top: 60px;
-    
-
 }
 #home {
-    background-image: url('/images/photo-1587620962725-abab7fe55159.jpg');
+    background-image: url('../images/photo-1587620962725-abab7fe55159.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -132,8 +130,6 @@ html {
     font-weight: 400px;
     margin-bottom: 10px;
     color: rgb(72, 117, 5);
-    
-    
 }
 
 #works {
@@ -171,13 +167,6 @@ html {
     color: rgb(72, 117, 5);
     line-height: 20px;
 }
-
-
-
-
-
-
-
 #contacts {
     background-color: rgb(200, 247, 131);
 }
@@ -200,7 +189,6 @@ h3 a {
     background-color: rgb(81, 134, 0);
     height: 40px;
     z-index: 999;
-
 }
 .footer p {
     text-align: center;
