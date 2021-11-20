@@ -56,7 +56,7 @@ html {
 
 }
 #home {
-    background-image: url('../images/photo-1587620962725-abab7fe55159.jpg');
+    background-image: url('/images/photo-1587620962725-abab7fe55159.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
